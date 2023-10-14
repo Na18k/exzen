@@ -143,7 +143,12 @@ main {
 	font-family: var(--font2);
 }
 
-
+.divisor {
+	width: 98%;
+	height: 2px;
+	color: white;
+	margin: 40px 0 40px 0;
+}
 
 .btn-ingresso {
 	padding: 6px 6px 6px 6px;
